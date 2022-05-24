@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 🌈 I'm Martina
+I am an NLP scientist currently based in Venice, Italy 🍕. I started working as a data scientist in 2020 and almost immediately became passionate about the world of Natural Language Processing. In my previous life I studied statistics and its applications to particle physics and biology.
+Every now and then I enjoy contributing to some competitions on Kaggle.
 
-<!--
-**mfumanelli/mfumanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things I'm interested in:
 
-Here are some ideas to get you started:
+- 🧠 Artificial Intelligence
+- 👩‍💻 Natural Language Processing
+- 🍝 Food
+- 🔭 For fun: cosmology/biology/anything that has to do with scientific progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's connect!
+
+![https://twitter.com/MFumanelli](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![https://www.linkedin.com/in/martina-fumanelli/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.kaggle.com/serquet](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
