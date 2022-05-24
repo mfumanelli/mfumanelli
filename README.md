@@ -7,7 +7,7 @@ Things I'm interested in:
 - 🧠 Artificial Intelligence
 - 👩‍💻 Natural Language Processing
 - 🍝 Food
-- 🔭 For fun: cosmology/biology/anything that has to do with scientific progress
+- 🔭 At a high level: cosmology/biology/anything that has to do with scientific progress
 
 ### Let's connect!
 
